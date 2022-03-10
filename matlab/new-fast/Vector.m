@@ -1,0 +1,2 @@
+classdef Vector < Point
+end
